@@ -1,2 +1,5 @@
 # VS Solution
 *.sln
+.vs/
+bin/
+obj/
